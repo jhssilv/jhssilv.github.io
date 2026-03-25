@@ -23,7 +23,7 @@ export function Footer() {
             {/* CTA Buttons */}
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <Button className="gap-2 font-mono" size="lg" asChild>
-                <a href="mailto:contact@example.com">
+                <a href="mailto:jhssilv@outlook.com">
                   <Mail className="h-4 w-4" />
                   Direct Inquiry
                 </a>
@@ -35,7 +35,7 @@ export function Footer() {
                 asChild
               >
                 <a
-                  href="https://github.com"
+                  href="https://github.com/jhssilv/jhssilv"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

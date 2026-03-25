@@ -21,7 +21,7 @@ export function Navigation() {
         <div className="flex h-16 items-center justify-between">
           <a href="#" className="flex items-center gap-2 text-foreground">
             <Terminal className="h-5 w-5 text-primary" />
-            <span className="font-mono text-sm font-medium">data.engineer</span>
+            <span className="font-mono text-sm font-medium">jhssilv</span>
           </a>
 
           {/* Desktop Navigation */}
